@@ -1,0 +1,16 @@
+{
+   "Debug": true,
+   "Key": "zaq10okm",
+   "RootDir": "/home/joe/dev/domainharvest/src/",
+   "MySQLConnection": "harvest/root/apple",
+   "LmiFolder": "/var/site/share/LMI",
+   "NameSiloAPI": "",
+   "NameAcount": "",
+   "NameToken": "",
+   "TldCache": "/home/joe/dev/domainharvest/",
+   "ThreadNumber": 10,
+   "Depth": 1,
+   "MaxUrls": 500,
+   "Requests": 10,
+   "MinDa": 20
+   }
