@@ -255,8 +255,8 @@ class Seomoz(object):
             Limit=limit)
 
 if __name__ == "__main__":
-    #seo = Seomoz('member-e05b1fddd6','f3456723b055bda3facb86d68cf03e3b')
-    seo = Seomoz('member-00df028258','2f9fa9b4a99e0819df4c9ff730fa393e')
+
+    seo = Seomoz('member-','')
     print seo.links( 'write-across-europe.com',scope='page_to_page',sort='page_authority',filters=['external'])
     #links=[u'dingchun.org', u'eteksty.net', u'colinfarrellweb.com', u'willishealthcare.com', u'creativekidfurniture.com', u'geo-ip.org']
     links=['write-across-europe.com']
