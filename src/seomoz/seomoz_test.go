@@ -13,7 +13,7 @@ func init(){
 var (
 
 	Proxy = proxy.InitProxies("/home/joe/dev/go/domainrankhistory/src/history/proxy.txt")
-	seo = &Seomoz{"member-78b2986584", "c286f6958f2198d486bc09fa452625d2"}
+	seo = &Seomoz{"member-", ""}
 )
 
 func TestSignature(t *testing.T) {
